@@ -1,0 +1,50 @@
+html {
+  background-color: #282c34;
+}
+
+.App {
+  /* text-align: center; */
+  color: #fedcba;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Title {
+  width: 100%;
+  text-align: center;
+}
+
+.InputComponent {
+  margin: 15px;
+}
+
+.InputLabel {
+  font-size: 24px;
+  /* margin: 0 15px; */
+}
+
+.Input {
+  font-size: 24px;
+  /* margin: 0 15px; */
+}
+
+.ValueComponent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 25%;
+  padding: 15px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: #fedcba;
+}
+
+.ValueLabel {
+  font-size: 18px;
+  /* margin: 0 15px; */
+}
+
+.Value {
+  font-size: 18px;
+  /* margin: 0 15px; */
+}

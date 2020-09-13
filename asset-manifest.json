@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trading-calculator/static/css/main.079409bb.chunk.css",
+    "main.js": "/trading-calculator/static/js/main.fb9d6661.chunk.js",
+    "main.js.map": "/trading-calculator/static/js/main.fb9d6661.chunk.js.map",
+    "runtime-main.js": "/trading-calculator/static/js/runtime-main.95a9d608.js",
+    "runtime-main.js.map": "/trading-calculator/static/js/runtime-main.95a9d608.js.map",
+    "static/js/2.1b0d9dcd.chunk.js": "/trading-calculator/static/js/2.1b0d9dcd.chunk.js",
+    "static/js/2.1b0d9dcd.chunk.js.map": "/trading-calculator/static/js/2.1b0d9dcd.chunk.js.map",
+    "index.html": "/trading-calculator/index.html",
+    "precache-manifest.feb61e7f72fc54a34b925f9dfab91b44.js": "/trading-calculator/precache-manifest.feb61e7f72fc54a34b925f9dfab91b44.js",
+    "service-worker.js": "/trading-calculator/service-worker.js",
+    "static/css/main.079409bb.chunk.css.map": "/trading-calculator/static/css/main.079409bb.chunk.css.map",
+    "static/js/2.1b0d9dcd.chunk.js.LICENSE.txt": "/trading-calculator/static/js/2.1b0d9dcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a9d608.js",
+    "static/js/2.1b0d9dcd.chunk.js",
+    "static/css/main.079409bb.chunk.css",
+    "static/js/main.fb9d6661.chunk.js"
+  ]
+}

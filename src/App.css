@@ -3,10 +3,16 @@ html {
 }
 
 .App {
-  /* text-align: center; */
+  text-align: center;
   color: #fedcba;
+  height: 100vw;
+}
+
+.Content {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
 }
 
 .Title {
@@ -15,36 +21,68 @@ html {
 }
 
 .InputComponent {
-  margin: 15px;
+  display: flex;
 }
 
 .InputLabel {
   font-size: 24px;
-  /* margin: 0 15px; */
+  /* width: 225px; */
 }
 
 .Input {
   font-size: 24px;
-  /* margin: 0 15px; */
 }
 
 .ValueComponent {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
-  width: 25%;
-  padding: 15px;
-  border-style: dotted;
-  border-width: 2px;
-  border-color: #fedcba;
 }
 
 .ValueLabel {
-  font-size: 18px;
-  /* margin: 0 15px; */
+  font-size: 24px;
+  margin-right: 10px;
 }
 
 .Value {
-  font-size: 18px;
-  /* margin: 0 15px; */
+  font-size: 24px;
+}
+
+.Border {
+  border-style: dotted;
+  border-color: #fedcba;
+}
+
+.Left {
+  display: flex;
+  flex-direction: column;
+  width: 66%;
+}
+
+.Right {
+  display: flex;
+  flex-direction: column;
+  width: 34%;
+}
+
+.Top {
+  display: flex;
+}
+
+.Middle {
+  display: flex;
+}
+
+.Bottom {
+  display: flex;
+}
+
+.Cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border-style: dotted;
+  border-color: #fedcba;
 }
